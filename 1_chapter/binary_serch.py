@@ -22,3 +22,4 @@ def binary_serch(coll, num):
 
 binary_serch(numbers, 10)
 
+#Бинарный поиск выполняется за время O(log n).
